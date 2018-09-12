@@ -47,7 +47,7 @@
 
 Write your endpoints in ```server.js```.
 
-1. **```'GET' /api/users```**
+<!-- 1. **```'GET' /api/users```** -->
 
     Respond with the entire users array, with status 200.
 
